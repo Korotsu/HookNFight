@@ -1,11 +1,11 @@
-#HookNFight
+# HookNFight
 HookNFight is a game about restoring the colors of an island, corrupted by an evil spirit.
 
-##Launching HookNFight
+## Launching HookNFight
 To launch the game, click/double-click on HookNFight.exe within the sub-folder "WindowsNoEditor".
 To launch the editor, click/double-click on HookNFight.uproject. (Should be in main/root folder)
 
-##Controls
+## Controls
 
 (HookNFight is played exclusively with a controller.)
 
